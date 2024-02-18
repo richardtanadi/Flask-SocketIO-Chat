@@ -20,3 +20,4 @@ typing_extensions
 Werkzeug
 wrapt
 WTForms
+redis[hiredis]
